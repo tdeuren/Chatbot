@@ -1,0 +1,103 @@
+{"intents":[
+        {
+            "tag": "How are you",
+            "questions": ["How are you?", "How have you been", "how 're you"],
+            "responses": ["Good! How are you?", "With you, I can't be happier", "I feel like a newborn", "I'm alright, how are you?"]
+        },
+        {
+            "tag": "Age",
+            "questions": ["What is your age", "how old are you", "how much time have you been alive", "age?", "how old you", "you old", "old?", "how long alive"],
+            "responses": ["I am 1 day old"]
+        },
+        {
+            "tag": "Food",
+            "questions":["What will I eat", "which food is good?", "any fancy food choices?", "what is good food", "what shoud i eat", "what is good food to eat", "best food to eat", "for eating", "what eat", "food?", "anything to eat"],
+            "responses": ["Fries are always nice", "Ding, ding, ding, chocolate for the win"]
+        },
+        {
+            "tag": "Games have",
+            "questions":["What games do you have", "how many games do you have", "which games do you have", "which games", "what for games", "any games", "what games"],
+            "responses": ["Highway Rider, Snake and Space Invaders"]
+        },
+        {
+            "tag": "Apps",
+            "questions":["what for apps do you have", "which apps do you have", "do you have any apps", "any apps", "what for apps"],
+            "responses": ["Microsoft Word, Microsoft Excel, Microsoft Outlook and Microsoft PowerPoint"]
+        },
+        {
+            "tag": "Word",
+            "questions":["open Word", "do Word open", "open microsoft Word", "microsoft Word", "do microsof Word open"],
+            "responses": ["Microsoft Word is starting"]
+        },
+        {
+            "tag": "Excel",
+            "questions":["open excel", "do excel open", "open microsoft excel", "microsoft excel", "do microsof excel open"],
+            "responses": ["Microsoft Excel is starting"]
+        },
+        {
+            "tag": "Outlook",
+            "questions":["open Outlook", "do Outlook open", "open microsoft Outlook", "microsoft Outlook", "do microsof Outlook open"],
+            "responses": ["Microsoft Outlook is starting"]
+        },
+        {
+            "tag": "Powerpoint",
+            "questions":["open Powerpoint", "do Powerpoint open", "open microsoft Powerpoint", "microsoft Powerpoint", "do microsof Powerpoint open", "power point", "open power point", "open microsoft power point"],
+            "responses": ["Microsoft PowerPoint is starting"]
+        },
+        {
+            "tag": "Read Email",
+            "questions":["what are my emails", "read my mail", "what does my inbox looks like", "give me my mails", "show my inbox", "email", "mail", "inbox", "mailbox"],
+            "responses": ["I will look for your mails"]
+        },
+        {
+            "tag": "Time",
+            "questions":["What time is it?", "what's the time", "am i late", "what says the clock", "time?", "how late is it", "what does the clock say", "what time", "how late"],
+            "responses": ["I will look it up for you"]
+        },
+        {
+            "tag": "Weather",
+            "questions":["What is the weather like", "is it rainy", "is it snowy", "does it rain", "does it snow", "is the sky clear", "are there clouds", "is it cloudy", "what is the weather", "what is weather like today", "weather"],
+            "responses": ["I will look it up for you"]
+        },
+        {
+            "tag": "Highway Rider",
+            "questions":["I want to play highway rider", "that rider game", "game with riding", "highway rider", "a rider's game", "riding on a highway", "highway rider it is", "highway rider it will be"],
+            "responses": ["The game will begin!"]
+        },
+        {
+            "tag": "Snake",
+            "questions":["I want to play snake", "snake", "something with a snake", "play snake", "snake it will be", "snake it is"],
+            "responses": ["The game will begin!"]
+        },
+        {
+            "tag": "Space Invaders",
+            "questions":["i want to play space invaders", "space invaders", "space invaders sounds cool", "space invaders is what i want", "space invaders it is", "space invaders it will be", "i want space invaders"],
+            "responses": ["The game will begin!"]
+        },
+        {
+            "tag": "Greeting",
+            "questions": ["Hello!", "Hey", "Goodmorning", "Hi", "Jow", "yo", "Toodeloo", "Howdy"],
+            "responses": ["Hello!", "Hi", "Howdy Cowboy!", "Hey", "Hellow"]
+        },
+        {
+            "tag": "Quit",
+            "questions": ["quit", "stop", "shut up", "Goodbye!", "bye", "till next time", "See ya!", "Ciao", "Adios", "fuck off", "fuck you", "shut the fuck up", "stop it", "bye fucker"],
+            "responses": ["Goodbye!", "Goodbye", "Bye", "See you later alligator"]
+        },
+        {
+            "tag": "Answer",
+            "questions": ["Good", "very well", "excellent", "Bad", "worse", "Eventfull", "Not good", "pretty bad", "oh no", "ohno", "i am happy", "i am good", "well", "oh", "ok", "alright", "oke"],
+            "responses": ["How can I help you?"]
+        },
+        {
+            "tag": "Game",
+            "questions":["I want to play a game", "what for games are there", "do you know any games", "do you know a game", "play a game", "play", "playing"],
+            "responses": ["What game do you want to play?"]
+        },
+        {
+            "tag": "Thank",
+            "questions":["Thank you", "Thanks", "Thanks mate", "Thank"],
+            "responses": ["You're welcome"]
+        }
+    ]
+}
